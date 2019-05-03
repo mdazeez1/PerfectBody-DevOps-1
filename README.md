@@ -1,5 +1,5 @@
 # PerfectBody-DevOps
-Sample app for demoing DevOps with VSTS
+Sample app for demoing DevOps with VSTS in Visual 
 
 <table>
     <tr>
